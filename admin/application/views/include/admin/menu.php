@@ -3,7 +3,8 @@
                     <ul class="menu accordion-menu">
                         <li class="nav-heading"><span>Navigation</span></li>
                       
-                       
+                      <li><a href="<?php echo base_url(); ?>apanel">Dashboard</a></li>
+ 
                         <li><a href="<?php echo base_url(); ?>apanel/contact">Enquiry Message Here</a></li>
 
                         <li ><a href="<?php echo base_url(); ?>apanel/stureg">Registraion List</a>

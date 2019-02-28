@@ -14,7 +14,7 @@
                                                 <th>Email</th>
                                                 <th>Enquiry List</th>
                                                 <th>Enquiry Date</th>
-                                                <th>Action</th>
+                                                <!--<th>Action</th>-->
                                             </tr>
                                         </thead>
                                         <tbody>
@@ -30,11 +30,11 @@
                                                 <td><?php echo $row->query; ?></td>
                                                 <td><?php echo $row->date; ?></td>
                                               
-                                                <td>
+                                               <!-- <td>
                                                 	<a href="<?php echo base_url();?>apanelForms/deleteCareer/<?php echo $row->id; ?>">
                                                 		Delete
                                                 	</a>
-                                                </td>
+                                                </td>-->
                                             </tr>
                                             <?php $i++; ?>
                                             <?php endforeach;?>

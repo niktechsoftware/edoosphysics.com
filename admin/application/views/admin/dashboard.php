@@ -1,6 +1,6 @@
 			                <div id="main-wrapper" class="container">
 			                    <div class="row">
-			                        <div class="col-lg-3 col-md-6">
+			                        <!--<div class="col-lg-3 col-md-6">
 			                            <div class="panel info-box panel-white">
 			                                <div class="panel-body">
 			                                    <div class="info-box-stats">
@@ -75,7 +75,7 @@
 			                                    </div>
 			                                </div>
 			                            </div>
-			                        </div>
+			                        </div>-->
 									<div class="col-lg-3 col-md-6">
 			                            <div class="panel info-box panel-white">
 			                                <div class="panel-body">
