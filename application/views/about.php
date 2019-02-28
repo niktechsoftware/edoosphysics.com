@@ -13,7 +13,7 @@
                 <div class="col-md-7 latest-list">
                   <div class="about-jewel-agile-left">
                   <h4 class="mb-3" data-blast="color"> About Us :</h4>
-                    <p>Edoos Coaching Classes has been surging ahead on the success track and has distinguished itself by 
+                    <p>Edoos Physics Classes has been surging ahead on the success track and has distinguished itself by 
                     setting up a new standard in the world of competitive education since 2006. It is an Institution of knowledge 
                     under the aegis of ....... for imparting the quality education for the students of IIT-JEE and Medical. 
                     Our qualified and experienced teachers conduct coaching classes,at convenient timings.</p>
@@ -32,7 +32,7 @@
                 </div>
                 <div class="col-md-7 latest-list">
                   <div class="about-jewel-agile-left">
-                    <p>Edoos Coaching Classes is structured on the principle of consistency and hardwork and believes 
+                    <p>Edoos Physics Classes is structured on the principle of consistency and hardwork and believes 
                     in scientific approach based on perfect planning and proper guidance. Students overall development 
                     and splendid success is our prime concern. Genius teaches all subjects under one roof.</p>
                   </div>

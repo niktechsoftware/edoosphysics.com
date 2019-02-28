@@ -2,7 +2,7 @@
       <div class="container py-lg-5 py-md-5 py-sm-4 py-3">
         <div class="row ">
      
-          <div class="dance-agile-info col-lg-3 col-md-6 col-sm-6">
+          <div class="dance-agile-info col-lg-4 col-md-6 col-sm-6">
             <h4 class="pb-lg-4 pb-md-3 pb-3 text-uppercase" data-blast="color">Contect Us</h4>
             <div class="footer-office-hour">
                <ul>
@@ -24,12 +24,12 @@
                   <h6 data-blast="color">Email</h6>
                 </li>
                 <li class="mt-2">
-                  <p><a href="#">info@mentorsbevy.com</a></p>
+                  <p><a href="#">edoosphysics@gmail.com</a></p>
                 </li>
               </ul>
             </div>
           </div>
-          <div class="dance-agile-info col-lg-3 col-md-6 col-sm-6">
+          <div class="dance-agile-info col-lg-4 col-md-6 col-sm-6">
             <h4 class="pb-lg-4 pb-md-3 pb-3 text-uppercase" data-blast="color">Twitter Us</h4>
             <div class="footer-office-hour">
               <ul>
@@ -50,7 +50,7 @@
               </ul>
             </div>
           </div>
-          <div class="dance-agile-info col-lg-3 col-md-6 col-sm-6">
+          <div class="dance-agile-info col-lg-4 col-md-6 col-sm-6">
             <h4 class="pb-lg-3 pb-3" data-blast="color">Our Posts</h4>
             <div class="footer-post d-flex mb-2">
               <div class="agileinfo_footer_grid1 mr-2">
@@ -96,7 +96,7 @@
             </div>
           </div>
           
-          <div class="dance-agile-info col-lg-3 col-md-6 col-sm-6">
+      <!--     <div class="dance-agile-info col-lg-3 col-md-6 col-sm-6">
             <h4 class="pb-lg-3 pb-3" data-blast="color">Toppers from Gulf region</h4>
             
       <div class="grey-box bdr bdr-wth">
@@ -111,7 +111,7 @@
         </div>
     </div>
            
-          </div>
+          </div> -->
         </div>
         <br>
         <div class="copy-agile-right text-center">

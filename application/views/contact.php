@@ -21,13 +21,13 @@
                   <h6 data-blast="color">Contect Number</h6>
                 </li>
                 <li class="mt-2">
-                  <p>9935876986,9795277204</p>
+                  <p>9935876986,9795277204,9795277205</p>
                 </li>
                 <li class="mt-lg-4 mt-3">
                   <h6 data-blast="color">Email</h6>
                 </li>
                 <li class="mt-2">
-                  <p><a href="#">info@mentorsbevy.com </a></p>
+                  <p><a href="#">edoosphysics@gmail.com</a></p>
                 </li>
               </ul>
             </div>
