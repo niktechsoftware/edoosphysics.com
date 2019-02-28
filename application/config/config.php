@@ -22,7 +22,8 @@
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'http://localhost/coaching_website/';
+
+$config['base_url'] = 'http://edoosphysics.com/';
 
 /*
 |--------------------------------------------------------------------------

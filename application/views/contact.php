@@ -27,7 +27,7 @@
                   <h6 data-blast="color">Email</h6>
                 </li>
                 <li class="mt-2">
-                  <p><a href="#">info@example.com</a></p>
+                  <p><a href="#">info@mentorsbevy.com </a></p>
                 </li>
               </ul>
             </div>
@@ -36,17 +36,17 @@
             <form action="<?php echo base_url(); ?>index.php/query" method="post">
               <div class="row text-center contact-wls-detail">
                 <div class="col-md-6 form-group contact-forms">
-                  <input type="text" class="form-control" placeholder="Name" required="">
+                  <input type="text" class="form-control" name="name" placeholder="Name" required="">
                 </div>
                 <div class="col-md-6 form-group contact-forms">
-                  <input type="text" class="form-control" placeholder="Mobile Number" required="">
+                  <input type="text" class="form-control" name="mno" placeholder="Mobile Number" required="">
                 </div>
               </div>
               <div class="form-group contact-forms">
-                <input type="email" class="form-control" placeholder="Email" required="">
+                <input type="email" class="form-control" name="email" placeholder="Email" required="">
               </div>
               <div class="form-group contact-forms">
-                <textarea class="form-control" rows="3" placeholder="Your Message" required=""></textarea>
+                <textarea class="form-control" rows="3" name="query" placeholder="Your Message" required=""></textarea>
               </div>
               <div class="sent-butnn text-center">
                 <button type="submit" class="btn btn-block" data-blast="bgColor">Send</button>
