@@ -19,11 +19,31 @@ function __construct()
 		}
 	}
 		
-	public function index(){
+	public function contact(){
 		$data['title'] = "Enquiry";
 		$data['smallTitle'] = "Enquiry List";
 		$data['bigTitle'] = "Enquiry List";
 		$data['body'] = "admin/contact";
+		$data['headerCss'] = "admin/headerCss/studentListCss";
+		$data['footerJs'] = "admin/footerJs/studentListJs";
+		$this->load->view("include/admin/mainContent",$data);
+	}
+
+	public function stureg(){
+		$data['title'] = "Students Registration";
+		$data['smallTitle'] = "Registration List";
+		$data['bigTitle'] = "Registration List";
+		$data['body'] = "admin/stureg";
+		$data['headerCss'] = "admin/headerCss/studentListCss";
+		$data['footerJs'] = "admin/footerJs/studentListJs";
+		$this->load->view("include/admin/mainContent",$data);
+	}
+
+	public function index(){
+		$data['title'] = "dashboard";
+		$data['smallTitle'] = "dashboard";
+		$data['bigTitle'] = "dashboard";
+		$data['body'] = "admin/dashboard";
 		$data['headerCss'] = "admin/headerCss/studentListCss";
 		$data['footerJs'] = "admin/footerJs/studentListJs";
 		$this->load->view("include/admin/mainContent",$data);

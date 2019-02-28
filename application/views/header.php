@@ -17,7 +17,7 @@
             </div>
             <div class="col-lg-6 col-md-5 col-sm-3 icons px-0">
               <ul>
-                <li><a href="#" data-toggle="modal" class="btn btn-primary" data-target="#exampleModalLive" data-blast="bgColor"><span>Register Here</span></a></li>
+                <li><a href="#" data-toggle="modal" class="btn btn-primary" data-target="#registermodel" data-blast="bgColor" style="padding: 1px;"><span>Register Here</span></a></li>
                 <li><a href="https://www.facebook.com/Edoos-Physics-Classes-1019349341586220/?modal=admin_todo_tour"><span class="fab fa-facebook-f"></span></a></li>
                 <li><a href="#"><span class="fas fa-envelope"></span></a></li>
                 <li><a href="#"><span class="fab fa-twitter"></span></a></li>
@@ -27,7 +27,7 @@
         </div>
 
 
-           <div id="exampleModalLive" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="exampleModalLiveLabel" aria-hidden="true">
+           <div id="registermodel" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="exampleModalLiveLabel" aria-hidden="true">
       <div class="modal-dialog" role="document">
         <div class="modal-content">
           <div class="modal-header">
