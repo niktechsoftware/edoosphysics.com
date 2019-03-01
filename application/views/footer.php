@@ -24,7 +24,7 @@
                   <h6 data-blast="color">Email</h6>
                 </li>
                 <li class="mt-2">
-                  <p><a href="#">edoosphysics@gmail.com</a></p>
+                  <p>edoosphysics@gmail.com</p>
                 </li>
               </ul>
             </div>

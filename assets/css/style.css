@@ -125,7 +125,7 @@ ul {
 	width:100%;
 }
 .headder-contact {
-    padding: 1em 0em;
+    padding: 5px 0em;
     background: transparent;
 }
 .info-contact-agile ul li,.icons ul li,.news-date ul li,.list-social-icons ul li,.news-bloger ul li{
@@ -168,10 +168,11 @@ ul {
 color:#ea1d5d;
 }
 .icons {
+	padding-top: 8px;
     text-align: right;
 }
 .info-contact-agile {
-    padding-top: 9px;
+  /*  padding-top: 9px;*/
 }
 /*--//Hedder-contact--*/
 /*-- nav --*/
@@ -181,7 +182,7 @@ color:#ea1d5d;
 .headdser-nav-color {
     background:#ea1d5d;
     width:100%;
-    padding: 1em;
+    padding: 20px;
 }
 .hedder-up {
     background:#000;
@@ -191,10 +192,10 @@ color:#ea1d5d;
 }
 h1 a.navbar-brand {
     padding-top: 7px;
-    font-size: 37px;
+    font-size: 25px;
     color: #fff !important;
     text-transform: capitalize;
-    font-weight: 600;
+    font-weight: 550;
     letter-spacing: 2px;
     margin-left: 5px;
     margin-right: 0px;

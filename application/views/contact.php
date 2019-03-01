@@ -1,10 +1,9 @@
  <?php echo $this->load->view('js'); ?>
        <?php echo $this->load->view('header'); ?>
        <?php echo $this->load->view('navbar'); ?>
- <br>
  <section class="contact py-lg-4 py-md-3 py-sm-3 py-3" id="contact">
       <div class="container py-lg-5 py-md-5 py-sm-4 py-3">
-        <h3 class="title clr text-center mb-lg-5 mb-md-4 mb-sm-4 mb-3">Contact Us</h3>
+        <h3 class="title clr text-center mb-lg-5 mb-md-4 mb-sm-4 mb-3" style="margin-top: 30px;">Contact Us</h3>
         <div class="row">
           <div class="col-md-5 address-grid">
             <div class="addres-office-hour text-center" >

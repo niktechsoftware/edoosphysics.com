@@ -2,18 +2,16 @@
  <div class="container-fluid">
           <div class="row headder-contact bg-info">
             <div class="col-lg-6 col-md-7 col-sm-9 info-contact-agile">
-              <ul>
-                <li>
+              <div>
+                <div>
                   <span class="fas fa-phone-volume" ></span>
-                  <p>9935876986,9795277204,9795277205</p>
-                </li>
-                <li>
+                  <label style="color: white;">9935876986,9795277204,9795277205</label>
+                </div>
+                <div>
                   <span class="fas fa-envelope"></span>
-                  <p><a href="#">edoosphysics@gmail.com</a></p>
-                </li>
-                <li>
-                </li>
-              </ul>
+                  <label style="color: white;">edoosphysics@gmail.com</label>
+                </div>
+              </div>
             </div>
             <div class="col-lg-6 col-md-5 col-sm-3 icons px-0">
               <ul>
