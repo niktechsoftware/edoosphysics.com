@@ -1,8 +1,11 @@
 
  <div class="container-fluid">
           <div class="row headder-contact bg-info">
-            <div class="col-lg-6 col-md-7 col-sm-9 info-contact-agile">
-              <div>
+		  <div class="col-md-2 info-contact-agile">
+		 <!-- <img src="<?php echo base_url();?>assets/images/Logo.jpg" alt=" " class="img-fluid" style="height: 15%;width: 53%;">-->
+		  </div>
+            <div class="col-md-5 info-contact-agile">
+              
                 <div>
                   <span class="fas fa-phone-volume" ></span>
                   <label style="color: white;">9935876986,9795277204,9795277205</label>
@@ -11,9 +14,9 @@
                   <span class="fas fa-envelope"></span>
                   <label style="color: white;">edoosphysics@gmail.com</label>
                 </div>
-              </div>
+              
             </div>
-            <div class="col-lg-6 col-md-5 col-sm-3 icons px-0">
+            <div class="col-md-5 icons px-0">
               <ul>
                 <li><a href="#" data-toggle="modal" class="btn btn-primary" data-target="#registermodel" data-blast="bgColor" style="padding: 1px;"><span>Register Here</span></a></li>
                 <li><a href="https://www.facebook.com/Edoos-Physics-Classes-1019349341586220/?modal=admin_todo_tour"><span class="fab fa-facebook-f"></span></a></li>
