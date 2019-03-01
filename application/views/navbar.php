@@ -3,7 +3,7 @@
           <div class="hedder-up">
             <h1 ><a href="<?php echo base_url();?>" class="navbar-brand" data-blast="color">Edoos Physics Classes</a></h1>
              <div>
-            <span style="float:right;color:white;">By : Permendra Sir</span>
+            <span style="float:right;color:white;">By : Pramendra Sir</span>
           </div>
           </div>
          
