@@ -14,38 +14,47 @@
       </div>
      
 
- <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+ <div id="myCarousel" id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+ <ol class="carousel-indicators">
+      <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+      <li data-target="#myCarousel" data-slide-to="1"></li>
+      <li data-target="#myCarousel" data-slide-to="2"></li>
+    </ol>
+ 
   <div class="carousel-inner">
     <div class="carousel-item active">
       <img class="d-block w-100" src="<?php echo base_url();?>assets/images/b1.jpg" alt="First slide" >
-       <div class="carousel-caption d-none d-md-block">
-   <a href="#" data-toggle="modal" class="btn btn-primary" data-target="#exampleModalLive" data-blast="bgColor"><h2>Enquiry Here</h2></a>
-   <a href="#" data-toggle="modal" class="btn btn-primary" data-target="#exampleModalLive1" data-blast="bgColor"><h2>Offer</h2></a>
-  </div>
+       <div id="mySidenav" class="sidenav">
+         <a href="#" id="blog"  data-toggle="modal" data-target="#exampleModalLive">Enquiry Here</a>
+<!--          <a href="#" id="about" data-toggle="modal" data-target="#exampleModalLive1">Joining Offer</a> -->
+       </div>
+      
     </div>
     <div class="carousel-item">
       <img class="d-block w-100" src="<?php echo base_url();?>assets/images/b2.jpg" alt="Second slide">
-   <div class="carousel-caption d-none d-md-block">
-   <a href="#" data-toggle="modal" class="btn btn-primary" data-target="#exampleModalLive" data-blast="bgColor"><h2>Enquiry Here</h2></a>
-   <a href="#" data-toggle="modal" class="btn btn-primary" data-target="#exampleModalLive1" data-blast="bgColor"><h2>Offer</h2></a>
-  </div>
+      <div id="mySidenav" class="sidenav">
+         <a href="#" id="blog"  data-toggle="modal" data-target="#exampleModalLive" >Enquiry Here</a>
+<!--          <a href="#" id="about" data-toggle="modal" data-target="#exampleModalLive1">Joining Offer</a> -->
+       </div>
+  
  </div>
     <div class="carousel-item">
       <img class="d-block w-100" src="<?php echo base_url();?>assets/images/b3.jpg" alt="Third slide">
-  <div class="carousel-caption d-none d-md-block">
-   <a href="#" data-toggle="modal" class="btn btn-primary" data-target="#exampleModalLive" data-blast="bgColor"><h2>Enquiry Here</h2></a>
-   <a href="#" data-toggle="modal" class="btn btn-primary" data-target="#exampleModalLive1" data-blast="bgColor"><h2>Offer</h2></a>
-  </div>
+      <div id="mySidenav" class="sidenav">
+         <a href="#" id="blog"  data-toggle="modal" data-target="#exampleModalLive" >Enquiry Here</a>
+<!--          <a href="#" id="about" data-toggle="modal" data-target="#exampleModalLive1">Joining Offer</a> -->
+       </div>
+
  </div>
   </div>
-  <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
-    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-    <span class="sr-only">Previous</span>
-  </a>
-  <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
-    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-    <span class="sr-only">Next</span>
-  </a>
+<!--   <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev"> -->
+<!--     <span class="carousel-control-prev-icon" aria-hidden="true"></span> -->
+<!--     <span class="sr-only">Previous</span> -->
+<!--   </a> -->
+<!--   <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next"> -->
+<!--     <span class="carousel-control-next-icon" aria-hidden="true"></span> -->
+<!--     <span class="sr-only">Next</span> -->
+<!--   </a> -->
 </div>
     </div>
 
@@ -146,5 +155,34 @@
     <!--bootstrap working-->
     <script src="<?php echo base_url();?>assets/js/bootstrap.min.js"></script>
     <!-- //bootstrap working-->
-  </body>
-</html>
+   <style>
+#mySidenav a {
+  position: absolute;
+  right: -80px;
+  transition: 0.3s;
+  padding: 15px;
+  width: 160px;
+  text-decoration: none;
+  font-size: 20px;
+  color: white;
+  border-radius: 7px 0 0 7px;
+}
+
+#mySidenav a:hover {
+  right: 0;
+}
+#blog {
+  top: 250px;
+  background-color: #2196F3;
+}
+/* #about { */
+/*   top: 280px; */
+/*   background-color: #4CAF50; */
+/* } */
+</style>
+
+<script>
+$(window).load(function(){        
+	   $('#exampleModalLive1').modal('show');
+	    });
+</script>

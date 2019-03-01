@@ -3,7 +3,7 @@
         <div class="row ">
      
           <div class="dance-agile-info col-lg-4 col-md-6 col-sm-6">
-            <h4 class="pb-lg-4 pb-md-3 pb-3 text-uppercase" data-blast="color">Contect Us</h4>
+            <h4 class="pb-lg-4 pb-md-3 pb-3 text-uppercase" data-blast="color">Contact Us</h4>
             <div class="footer-office-hour">
                <ul>
                 <li class="mb-2">
@@ -15,7 +15,7 @@
               </ul>
               <ul>
                 <li class="mt-lg-4 mt-3">
-                  <h6 data-blast="color">Contect Number</h6>
+                  <h6 data-blast="color">Contact Number</h6>
                 </li>
                 <li class="mt-2">
                   <p>9935876986,9795277204</p>
