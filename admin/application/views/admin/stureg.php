@@ -12,7 +12,7 @@
                                                 <th>Students Name</th>
                                                 <th>Mobile Number</th>
                                                 <th>Email</th>
-                                                <th>Enquiry Date</th>
+                                                <th>Registration Date</th>
                                                <!-- <th>Action</th>-->
                                             </tr>
                                         </thead>

@@ -25,7 +25,7 @@
     <div class="carousel-item active">
       <img class="d-block w-100" src="<?php echo base_url();?>assets/images/b1.jpg" alt="First slide" >
        <div id="mySidenav" class="sidenav">
-         <a href="#" id="blog"  data-toggle="modal" data-target="#exampleModalLive" style="font-size: 16px;">Enquiry Here</a>
+         <a href="#" id="blog"  data-toggle="modal" data-target="#exampleModalLive" style="font-size: 16px;" class="enquiry">Enquiry Here</a>
 <!--          <a href="#" id="about" data-toggle="modal" data-target="#exampleModalLive1">Joining Offer</a> -->
        </div>
       
@@ -33,7 +33,7 @@
     <div class="carousel-item">
       <img class="d-block w-100" src="<?php echo base_url();?>assets/images/b2.jpg" alt="Second slide">
       <div id="mySidenav" class="sidenav">
-         <a href="#" id="blog"  data-toggle="modal" data-target="#exampleModalLive" style="font-size: 16px;">Enquiry Here</a>
+         <a href="#" id="blog"  data-toggle="modal" data-target="#exampleModalLive" style="font-size: 16px;" class="enquiry">Enquiry Here</a>
 <!--          <a href="#" id="about" data-toggle="modal" data-target="#exampleModalLive1">Joining Offer</a> -->
        </div>
   
@@ -41,7 +41,7 @@
     <div class="carousel-item">
       <img class="d-block w-100" src="<?php echo base_url();?>assets/images/b3.jpg" alt="Third slide">
       <div id="mySidenav" class="sidenav">
-         <a href="#" id="blog"  data-toggle="modal" data-target="#exampleModalLive" style="font-size: 16px;">Enquiry Here</a>
+         <a href="#" id="blog"  data-toggle="modal" data-target="#exampleModalLive" style="font-size: 16px;" class="enquiry">Enquiry Here</a>
 <!--          <a href="#" id="about" data-toggle="modal" data-target="#exampleModalLive1">Joining Offer</a> -->
        </div>
 

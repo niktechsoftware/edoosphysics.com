@@ -35,8 +35,7 @@
             </div>
           </div>
         </nav>
-		<img src="http://localhost/edoosphysics.com/assets/images/Logo.jpg" alt=" " class="img-fluid" style="height: 21%;
-    width: 26%;
+		<img src="<?php echo base_url();?>assets/images/Logo1.png" alt=" " class="img-fluid" style="height: 21%;
     padding: 1em 7em;z-index: 999;
     position: absolute;
     top: -16px;

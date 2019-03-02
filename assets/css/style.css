@@ -1269,7 +1269,9 @@ background: #fff;
 	left: 192px;
 }
 .info-contact-agile {
-    padding-top: 7px;
+    /*padding-top: 7px;*/
+	padding-left: 105px;
+    font-size: 11px;
 }
 .w3layouts-service-list:nth-child(3),.blog-grid-flex:nth-child(3),
 .stats-grid-3,.stats-grid-4,.profile:nth-child(3),
