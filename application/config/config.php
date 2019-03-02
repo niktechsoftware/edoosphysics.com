@@ -23,7 +23,7 @@
 |
 */
 
-$config['base_url'] = 'http://localhost/edoosphysics.com/';
+$config['base_url'] = 'http://edoosphysics.com/';
 
 /*
 |--------------------------------------------------------------------------

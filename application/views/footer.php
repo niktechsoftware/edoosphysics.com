@@ -31,14 +31,14 @@
             </div>
           </div>
           <div class="dance-agile-info col-lg-4 col-md-6 col-sm-6">
-            <h4 class="pb-lg-4 pb-md-3 pb-3 text-uppercase" data-blast="color">Twitter Us</h4>
+           <!-- <h4 class="pb-lg-4 pb-md-3 pb-3 text-uppercase" data-blast="color">Twitter Us</h4>
             <div class="footer-office-hour">
               <ul>
                 <li>
                   <p>sit amet consectetur adipiscing</p>
                 </li>
                 <li class="my-1">
-                  <p><a href="#" data-blast="color">http://example.com</a> sit amet</p>
+                  <p><a href="https://twitter.com/edoosp" data-blast="color">https://twitter.com/edoosp</a> </p>
                 </li>
                 <li class="mb-lg-4 mb-md-3 mb-3"><span>Posted 3 days ago.</span></li>
                 <li>
@@ -49,7 +49,7 @@
                 </li>
                 <li><span>Posted 3 days ago.</span></li>
               </ul>
-            </div>
+            </div>-->
           </div>
           <div class="dance-agile-info col-lg-4 col-md-6 col-sm-6">
             <h4 class="pb-lg-3 pb-3" data-blast="color">Our Posts</h4>

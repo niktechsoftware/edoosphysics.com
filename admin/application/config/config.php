@@ -16,7 +16,7 @@
 | environments.
 |
 */
-$config['base_url'] = 'http://localhost/edoosphysics.com/admin/';
+$config['base_url'] = 'http://edoosphysics.com/admin/';
 
 /*
 |--------------------------------------------------------------------------

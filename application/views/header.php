@@ -17,11 +17,11 @@
               
             </div>
             <div class="col-md-5 icons px-0">
-              <ul>
+              <ul><li><a href="http://edoosphysics.com/admin/">Admin</a></li>
                 <li><a href="#" data-toggle="modal" class="btn btn-primary" data-target="#registermodel" data-blast="bgColor" style="padding: 1px;"><span>Register Here</span></a></li>
                 <li><a href="https://www.facebook.com/Edoos-Physics-Classes-1019349341586220/?modal=admin_todo_tour"><span class="fab fa-facebook-f"></span></a></li>
                 <li><a href="#"><span class="fas fa-envelope"></span></a></li>
-                <li><a href="#"><span class="fab fa-twitter"></span></a></li>
+                <li><a href="https://twitter.com/edoosp"><span class="fab fa-twitter"></span></a></li>
               </ul>
             </div>
           </div>
