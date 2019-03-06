@@ -116,7 +116,7 @@
             </button>
           </div>
           <div class="modal-body">
-             <span style=" color: red; font-size:25px; text-weight:bold;">Note :</span> <h4>Use Cose PRM50 and get 50% discount in fee</h4>
+             <span style=" color: red; font-size:25px; text-weight:bold;">Note :</span> <h4>Use Code PRM30 and get 30% discount in fee</h4>
           </div>
           <div class="modal-footer">
             <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>

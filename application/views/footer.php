@@ -5,8 +5,17 @@
           <div class="dance-agile-info col-lg-4 col-md-6 col-sm-6">
             <h4 class="pb-lg-4 pb-md-3 pb-3 text-uppercase" data-blast="color">Contact Us</h4>
             <div class="footer-office-hour">
+			<ul>
+				<li class="md-2">
+					<h6>Managing Director </h6>
+				</li>
+				<li>				
+					<b>Satyendra Pandey</b>
+			   </li>
+			</ul>
                <ul>
-                <li class="mb-2">
+			   
+                <li class="mt-lg-4 mt-3">
                   <h6 data-blast="color">Address</h6>
                 </li>
                 <li>
