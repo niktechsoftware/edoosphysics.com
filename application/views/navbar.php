@@ -24,10 +24,10 @@
                  </li> 
                 <li class="nav-item">
                   <a href="<?php echo base_url();?>index.php/welcome/team/" class="nav-link scroll">Team</a>
-                </li>
+                </li>-->
                  <li class="nav-item">
-                  <a href="<?php echo base_url();?>index.php/welcome/stats/" class="nav-link scroll">Stats</a>
-                </li>   -->
+                  <a href="<?php echo base_url();?>index.php/welcome/placement/" class="nav-link scroll">Placements</a>
+                </li>   
                 <li class="nav-item">
                   <a href="<?php echo base_url();?>index.php/welcome/contact/" class="nav-link scroll">Contact</a>
                 </li>

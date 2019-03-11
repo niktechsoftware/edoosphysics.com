@@ -22,7 +22,7 @@ class Welcome extends CI_Controller {
 	    $this->load->view('services');
 	}
 	
-	public function stats()
+	public function placement()
 	{
 	    $this->load->view('stats');
 	}
