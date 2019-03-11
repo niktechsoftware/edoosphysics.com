@@ -4,7 +4,7 @@
        
        <br>
     <section class="about" id="about">
-      <div class="container py-lg-5 py-md-5 py-sm-4 py-3">
+      <div class="container py-lg-5 py-md-5 py-sm-4 py-3" style="margin-top: 58px;">
         <!--Horizontal Tab-->
         
           <div class="resp-tabs-container">
@@ -24,7 +24,8 @@
                 </div>
                 <div class="col-md-5 about-txt-img">
                   <img src="<?php echo base_url();?>assets/images/student.jpeg" class="img-thumbnail" alt="">
-                  <h4>BRD Medical College Gorakhpur</h4>
+                  <h4 style="margin-top: 25px;
+    text-align: center;">BRD Medical College Gorakhpur</h4>
                 </div>
               </div>
             </div>
